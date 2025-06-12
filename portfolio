@@ -31,7 +31,7 @@
             <!-- Projeto 1 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-1.png" class="card-img-top" alt="Imagem do projeto de biblioteca virtual">
+                    <img src="Captura de tela 2025-06-12 115430.png" class="card-img-top" alt="Imagem do Jogo de Corrida">
                     <div class="card-body">
                         <h5 class="card-title">Jogo de Corrida</h5>
                         <p class="card-text">Neste projeto, construí do zero um jogo de corrida de 4 jogadores, utilizando as ferramentas disponibilizadas pelo p5.js
